@@ -12,6 +12,9 @@ In this game, you will have to try and guess a randomly generated number between
 3. Enter your guess by typing a number between 1 and 100.
 4. Continue to guess until you get the correct answer or run out of chances
 
+### Game Screenshot
+This is what a playthrough of the game looks like:
+![image](https://github.com/user-attachments/assets/a8c6d9ba-e507-4496-96c3-be70309230b8)
 
 
 
